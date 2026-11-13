@@ -1,6 +1,4 @@
-# Datos
-
-## Undefined y Null
+# Undefined y Null
 
 
 - undefined: Es una variable que aun no tiene valor asignado.
@@ -8,7 +6,7 @@
         typeof null da "object", pero es un error histórico de JS que no cambiaron para no romper programas viejos.
 
 
-## Object, Symbol y BigInt
+# Object, Symbol y BigInt
 
 
 - Un Object es una coleción de pares clave-valor. Son buenos para agrupar info que se relaciona
